@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KATIATAREA", "KATIATAREA\KATIATAREA.csproj", "{5AD66C70-DC20-4C1E-B37C-E3BE51453846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kattarea", "kattarea\kattarea.csproj", "{2381D9A1-78D4-4DC4-AEDB-5BA634631ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD66C70-DC20-4C1E-B37C-E3BE51453846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD66C70-DC20-4C1E-B37C-E3BE51453846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD66C70-DC20-4C1E-B37C-E3BE51453846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD66C70-DC20-4C1E-B37C-E3BE51453846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2381D9A1-78D4-4DC4-AEDB-5BA634631ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2381D9A1-78D4-4DC4-AEDB-5BA634631ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2381D9A1-78D4-4DC4-AEDB-5BA634631ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2381D9A1-78D4-4DC4-AEDB-5BA634631ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70955A45-A484-4CD2-A653-6DB6C1AA171E}
+	EndGlobalSection
+EndGlobal

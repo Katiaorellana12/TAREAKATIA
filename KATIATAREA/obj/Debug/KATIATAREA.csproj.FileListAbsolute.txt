@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\KATIATAREA\KATIATAREA\bin\Debug\KATIATAREA.dll
+C:\Users\HP\source\repos\KATIATAREA\KATIATAREA\bin\Debug\KATIATAREA.pdb
+C:\Users\HP\source\repos\KATIATAREA\KATIATAREA\obj\Debug\KATIATAREA.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KATIATAREA\KATIATAREA\obj\Debug\KATIATAREA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KATIATAREA\KATIATAREA\obj\Debug\KATIATAREA.dll
+C:\Users\HP\source\repos\KATIATAREA\KATIATAREA\obj\Debug\KATIATAREA.pdb
